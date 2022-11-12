@@ -14,10 +14,4 @@ hello wq hello git
 hello wq hello git
 hello wq hello git
 hello wq hello git
-hello wq hello git
-hello wq hello git
-hello wq hello git
-hello wq hello git
-hello wq hello git
-hello wq hello git
-hello wq hello git
+hot fix
