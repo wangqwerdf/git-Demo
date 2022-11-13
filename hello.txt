@@ -13,9 +13,7 @@ hello wq hello git
 hello wq hello git
 hello wq hello git
 hello wq hello git
-<<<<<<< HEAD
 hello wq hello git master
-=======
 hello wq hello git
 hot fixtest
->>>>>>> hot-fix
+11111
